@@ -17,10 +17,7 @@ I'm Am Aishwarya Patil
 
 👨‍💻 Check out my projects and portfolio at https://github.com/Aishwarya392?tab=repositories.
 
-📄 View my experience and credentials in [My Resume](#).
-
 [Uploading Animation1.html…]()![Animation 2](https://github.com/user-attachments/assets/7c40606c-c5bf-4f12-91d4-b8ad19c06c05)
-
 
 
 🌐 **Socials:**
