@@ -41,8 +41,6 @@ I'm Am Aishwarya Patil
 
 ## 🔝 Top Contributed Repo
 
-Check out my top contributed repository: [Your Top Contributed Repo](https://github.com/Aishwarya392/your-repo)
-
----
+Check out my top contributed repository: [Your Top Contributed Repo]
 
 *Thanks for visiting my GitHub profile! 😊*
